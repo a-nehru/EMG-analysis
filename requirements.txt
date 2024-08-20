@@ -6,3 +6,4 @@ sonpy==0.1.5
 scipy==1.7.1
 pandas==1.3.0
 tqdm==4.62.0
+git+https://github.com/neurodsp-tools/sonpy.git@v0.1.5
